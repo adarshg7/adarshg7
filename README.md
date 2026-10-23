@@ -1,17 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adarsh%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Data%20Science&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adarsh%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Java%20Developer&descAlignY=56&descSize=18" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00CFA8&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+%F0%9F%92%BB;+%F0%9F%A4%96;Building+Secure+REST+APIs+%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00CFA8&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;ML+Engineer+%F0%9F%A4%96;Java+Backend+Developer+%F0%9F%92%BB;Building+Predictive+Models+%26+APIs+%F0%9F%94%92)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-ID)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LEETCODE-[USERNAME](https://leetcode.com/u/adarshg7/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adarshg7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adarshg7/Portfolio)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adarshg7&color=00CFA8&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/adarshg7?style=flat-square&logo=github&color=00CFA8&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/adarshg7?style=flat-square&logo=github&color=7B6FFF&label=Stars)
 
 </div>
 
@@ -19,18 +23,19 @@
 
 ## 👨‍💻 About Me
 
-Software developer focused on **Java backend**.
+Data Scientist and Software Developer passionate about turning raw data into actionable insights and building the robust backends to serve them.
 
-- 🔭 Currently working on: Java microservices & ML pipelines
-- 🌱 Exploring: System design, Cloud (AWS), MLOps
-- 💬 Ask me about: Java · Spring Boot · Python · Data Science
+- 🔭 Currently working on: ML pipelines & Java microservices
+- 🌱 Exploring: MLOps, Cloud (AWS), System Design
+- 💬 Ask me about: Python · Data Science · Java · Spring Boot
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshg7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshg7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 <img height="170" src="https://streak-stats.demolab.com?user=adarshg7&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -43,7 +48,7 @@ Software developer focused on **Java backend**.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshg7&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarshg7&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity+Graph" />
 
 </div>
 
@@ -53,7 +58,7 @@ Software developer focused on **Java backend**.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=adarshg7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=adarshg7&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -63,13 +68,13 @@ Software developer focused on **Java backend**.
 
 <div align="center">
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&perline=8" />
-
 **Data Science & ML**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch&perline=8" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&perline=8" />
 
 **Database & DevOps**
 
@@ -85,6 +90,15 @@ Software developer focused on **Java backend**.
 
 ## 🚀 Featured Projects
 
+### 🐍 Data Science
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🤖 **KodeMaster.ai** | AI-powered coding assistant — ML pipelines with real-time inference | `Python` `scikit-learn` `FastAPI` | [View →](https://github.com/adarshg7/KodeMaster.ai) |
+| 📊 **Observability Platform** | Metrics ingestion, drift detection & statistical anomaly alerting | `Python` `Pandas` `Plotly` | [View →](https://github.com/adarshg7/observability-platform) |
+
+> 📂 More projects: [adarshg7/development](https://github.com/adarshg7/development)
+
 ### ☕ Java
 
 | Project | Description | Stack | Link |
@@ -92,16 +106,7 @@ Software developer focused on **Java backend**.
 | 🏦 **Banking System** | Secure banking API with JWT auth, account management & transactions | `Java` `Spring Boot` `MySQL` | [View →](https://github.com/adarshg7/Banking-System) |
 | 📝 **SummarizeIQ** | Intelligent document summarization REST service with multi-format support | `Java` `Spring` `NLP` | [View →](https://github.com/adarshg7/SummarizeIQ) |
 
-> 📂 More Java projects: [adarshg7/development](https://github.com/adarshg7/development)
-
-### 🐍 Data Science
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🛡️ **Aegis AI** | ML-powered threat detection — classifies anomalous patterns in network traffic | `Python` `scikit-learn` `FastAPI` | [View →](https://github.com/adarshg7/aegis-ai) |
-| 📊 **Observability Platform** | Metrics ingestion, drift detection & statistical anomaly alerting | `Python` `Pandas` `Plotly` | [View →](https://github.com/adarshg7/observability-platform) |
-
-> 📂 More Data Science projects: [adarshg7/development](https://github.com/adarshg7/development)
+> 📂 More projects: [adarshg7/development](https://github.com/adarshg7/development)
 
 ---
 
@@ -109,7 +114,7 @@ Software developer focused on **Java backend**.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/LEETCODE-USERNAME?theme=dark&font=Karla&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/adarshg7?theme=dark&font=Karla&ext=heatmap" />
 
 </div>
 
@@ -117,25 +122,13 @@ Software developer focused on **Java backend**.
 
 <div align="center">
 
-| Platform | Handle | Rating | Rank |
+| Platform | Handle | Solved | Rank |
 |:---:|:---:|:---:|:---:|
-| 🟡 **LeetCode** | [LEETCODE-USERNAME](https://leetcode.com/u/LEETCODE-USERNAME) | ⭐ YOUR-RATING | Top X% |
-| 🔵 **Codeforces** | [CODEFORCES-USERNAME](https://codeforces.com/profile/CODEFORCES-USERNAME) | ⭐ YOUR-RATING | Pupil / Specialist |
+| 🟡 **LeetCode** | [adarshg7](https://leetcode.com/u/adarshg7/) | YOUR-COUNT | Top X% |
 
 </div>
 
 > 📂 All DSA solutions: [adarshg7/dsa](https://github.com/adarshg7/dsa)
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-ID)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-
-</div>
 
 ---
 
