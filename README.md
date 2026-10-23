@@ -2,21 +2,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00CFA8&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+%F0%9F%92%BB;Python+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+Secure+REST+APIs+%F0%9F%94%92;Turning+Data+into+Insights+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00CFA8&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+%F0%9F%92%BB;Python+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+Secure+REST+APIs+%F0%9F%94%92)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-ID)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LEETCODE-USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CODEFORCES-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LEETCODE-[USERNAME](https://leetcode.com/u/adarshg7/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adarshg7/Portfolio)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=adarshg7&color=00CFA8&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/adarshg7?style=flat-square&logo=github&color=00CFA8&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/adarshg7?style=flat-square&logo=github&color=7B6FFF&label=Stars)
 
 </div>
 
@@ -24,14 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Software developer focused on **Java backend** and **Data Science with Python**. I build secure, scalable APIs and turn raw datasets into actionable insights and predictive models.
+Software developer focused on **Java backend**.
 
 - 🔭 Currently working on: Java microservices & ML pipelines
 - 🌱 Exploring: System design, Cloud (AWS), MLOps
 - 💬 Ask me about: Java · Spring Boot · Python · Data Science
-- 📫 Reach me: [YOUR-EMAIL](mailto:YOUR-EMAIL)
-- ⚡ Fun fact: I solve LeetCode problems before breakfast
-
 ---
 
 ## 📊 GitHub Analytics
